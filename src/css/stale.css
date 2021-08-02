@@ -1,3 +1,20 @@
-.font {
-    
+.block p{
+    color: red;
+}
+h1 {
+    border: 2px solid #000;
+    color: red;
+}
+
+.text {
+    color: olive;
+}
+
+#text-1 {
+    color: blue;
+}
+
+.header {
+    text-transform: uppercase;
+    color: gold;
 }
