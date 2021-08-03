@@ -1,4 +1,43 @@
-.block p{
+/*Урок 6*/
+* {
+    box-sizing: border-box;
+}
+.box {
+    width: 50%;
+    background-color: #aeaeae;
+    height: 300px;
+    
+}
+
+/* .box p{
+    height: 400px;
+    width: 50%;
+    background-color: black;
+    color: gold;
+    margin-right: -4px;
+    overflow: auto;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    border: 10px double gold;
+    border-bottom: 15px dotted green;
+    margin-bottom: 5px;
+    display: inline-block;
+} */
+/* .box-1 {
+    background-color: aqua;
+    height: 100px;
+    width: 20%;
+    display: inline-block;
+}
+.mini-box {
+    background-color: red;
+    height: 50px;
+    width: 50%;
+} */
+
+/* .block p{
     color: red;
 }
 h1 {
@@ -17,4 +56,4 @@ h1 {
 .header {
     text-transform: uppercase;
     color: gold;
-}
+} */
